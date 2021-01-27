@@ -1,0 +1,18 @@
+{
+    "name": "yaya/tiny-laravel",
+    "description": "this is a small laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yaya",
+            "email": "1214721016@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yaya\\TinyLaravel\\" : "./src/"
+        }
+    },
+    "require": {}
+}
